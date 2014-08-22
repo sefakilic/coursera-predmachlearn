@@ -1,9 +1,9 @@
 ---
 title: "Are you exercising correctly? Qualitative assessment of weight lifting exercises"
 output:
-  pdf_document: default
   html_document:
     smart: no
+  pdf_document: default
 bibliography: bibliography.bib
 ---
 
